@@ -12,7 +12,7 @@ Get API key
 
 ## Clone the repository
 ```
-git clone https://github.com/BobIT37/mac_query_with_python.git
+https://github.com/BobIT37/mac_address_query.git
 
 ```
 
